@@ -3,7 +3,7 @@ UberGallery - The simple PHP photo gallery
 Created by, [Chris Kankiewicz](http://www.ChrisKankiewicz.com)
 
 
-Introduction
+
 ------------
 UberGallery is an easy to use, simple to manage, web photo gallery written in PHP and distributed
 under the [MIT License](http://www.opensource.org/licenses/mit-license.php). UberGallery
